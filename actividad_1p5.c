@@ -12,7 +12,7 @@
 
 static long num_pasos = 100000000;
 
-#define NUM_THREADS 900
+#define NUM_THREADS 130
 
 double function(double valor_x){
     return (1.0/valor_x);
